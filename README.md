@@ -1,2 +1,0 @@
-# demogame
-demo game
